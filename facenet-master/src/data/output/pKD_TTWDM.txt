@@ -1,0 +1,7 @@
+./data/target/pKD_TTWDM/abc/Abdullatif_Sener_0001_0.png##./data/library/Abdullatif_Sener/Abdullatif_Sener_0001.png##69.36
+./data/target/pKD_TTWDM/abc/Abdullatif_Sener_0001_0.png##./data/library/Abdullatif_Sener/Abdullatif_Sener_0002.png##24.32
+./data/target/pKD_TTWDM/abc/Abdullatif_Sener_0001_0.png##./data/library/Alvaro_Uribe/Alvaro_Uribe_0011.png##0.89
+./data/target/pKD_TTWDM/abc/Abdullatif_Sener_0001_0.png##./data/library/Cristian_Barros/Cristian_Barros_0001.png##0.67
+./data/target/pKD_TTWDM/abc/Abdullatif_Sener_0001_0.png##./data/library/Jacques_Rogge/Jacques_Rogge_0008.png##3.58
+./data/target/pKD_TTWDM/abc/Abdullatif_Sener_0001_0.png##./data/library/Jacques_Chirac/Jacques_Chirac_0043.png##1.65
+./data/target/pKD_TTWDM/abc/Abdullatif_Sener_0001_0.png##./data/library/Jacques_Chirac/Jacques_Chirac_0039.png##1.19

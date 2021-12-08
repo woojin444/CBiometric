@@ -1,0 +1,7 @@
+arguments: align/align_dataset_mtcnn.py G:\Users\xyq\PyProjects\facenet-master\data\aaa G:\Users\xyq\PyProjects\facenet-master\data\bbb --image_size 160 --margin 32 --random_order --gpu_memory_fraction 0.25 --detect_multiple_faces True
+--------------------
+tensorflow version: 1.10.0
+--------------------
+git hash: b''
+--------------------
+b''

@@ -1,0 +1,7 @@
+./data/target/dQh3Enr99/abc/Abdullatif_Sener_0002_0.png##./data/library/Tom_Ridge/Tom_Ridge_0010.png##6.65
+./data/target/dQh3Enr99/abc/Abdullatif_Sener_0002_0.png##./data/library/Tom_Hanks/Tom_Hanks_0005.png##5.4
+./data/target/dQh3Enr99/abc/Abdullatif_Sener_0002_0.png##./data/library/Ricardo_Lopez_Murphy/Ricardo_Lopez_Murphy_0001.png##5.04
+./data/target/dQh3Enr99/abc/Abdullatif_Sener_0002_0.png##./data/library/Tom_Foy/Tom_Foy_0001.png##4.55
+./data/target/dQh3Enr99/abc/Abdullatif_Sener_0002_0.png##./data/library/Tom_Ridge/Tom_Ridge_0009.png##0.87
+./data/target/dQh3Enr99/abc/Abdullatif_Sener_0002_0.png##./data/library/Charles_Bronson/Charles_Bronson_0003.png##0.28
+./data/target/dQh3Enr99/abc/Abdullatif_Sener_0002_0.png##./data/library/Recep_Tayyip_Erdogan/Recep_Tayyip_Erdogan_0004.png##0.07

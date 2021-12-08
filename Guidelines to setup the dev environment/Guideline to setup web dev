@@ -1,0 +1,14 @@
+Make sure nodejs is installed and npm is installed.
+Windows:
+Download the LTS installer from the below website.
+https://nodejs.org/en/#download
+
+Linux/Mac:
+Follow the installation guide from the below website and choose your own operating system.
+https://nodejs.org/en/download/package-manager/#windows
+
+Then clone the project from Gitlab
+
+Using the terminal 
+1. cd to the Web_Development folder 
+2. type "npm install"

@@ -1,0 +1,10 @@
+G:\Users\xyq\PyProjects\facenet-master\data\bbb\a\a_0.png 55 54 127 145
+G:\Users\xyq\PyProjects\facenet-master\data\bbb\a\a_1.png 0 22 48 125
+G:\Users\xyq\PyProjects\facenet-master\data\bbb\a\a_2.png 241 80 307 162
+G:\Users\xyq\PyProjects\facenet-master\data\bbb\a\a_3.png 409 78 499 166
+G:\Users\xyq\PyProjects\facenet-master\data\bbb\a\a_4.png 301 104 367 178
+G:\Users\xyq\PyProjects\facenet-master\data\bbb\a\a_5.png 189 68 259 152
+G:\Users\xyq\PyProjects\facenet-master\data\bbb\a\a_6.png 352 57 416 135
+G:\Users\xyq\PyProjects\facenet-master\data\bbb\a\a_7.png 380 114 451 194
+G:\Users\xyq\PyProjects\facenet-master\data\bbb\a\a_8.png 255 135 323 218
+G:\Users\xyq\PyProjects\facenet-master\data\bbb\a\a_9.png 110 74 178 158

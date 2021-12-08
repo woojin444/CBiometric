@@ -1,0 +1,2 @@
+./data/target/Mm0B36Dlh/abc/Yuri_Malenchenko_0001_0.png##./data/library/Erik_Morales/Erik_Morales_0003.png##7.6
+./data/target/Mm0B36Dlh/abc/Yuri_Malenchenko_0001_0.png##./data/library/Vitali_Klitschko/Vitali_Klitschko_0001.png##1.68

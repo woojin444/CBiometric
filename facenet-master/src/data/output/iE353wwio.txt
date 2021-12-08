@@ -1,0 +1,2 @@
+./data/target/iE353wwio/abc/Abdullatif_Sener_0002_0.png##./data/library/Abdullatif_Sener/Abdullatif_Sener_0002.png##66.2
+./data/target/iE353wwio/abc/Abdullatif_Sener_0002_0.png##./data/library/Abdullatif_Sener/Abdullatif_Sener_0001.png##16.22

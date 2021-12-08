@@ -1,0 +1,41 @@
+Initialize app: (onlly for the first time)
+1. Clone or download CBiometric
+2. Follow the guide install GPU supports for tensorflow https://www.tensorflow.org/install/gpu?hl=zh-cn
+3. Install mongoDB 4.0.2
+4. Install Anaconda3
+5. Install node from https://nodejs.org/en/download/
+6. set environment path
+    Create new system variable:
+    Name: PYTHONPATH
+    Value: the path of facenet-master\src, for example “G:\Users\facenet-master\src”.
+7. open anaconda prompt
+
+    install as follow:
+conda create -n tensorflow_gpuenv tensorflow-gpu
+conda activate tensorflow_gpuenv
+
+conda install -c anaconda scikit-learn
+conda install -c conda-forge opencv
+conda install -c anaconda scipy
+conda install -c anaconda pillow
+conda install -c anaconda pymongo
+conda install -c anaconda reportlab
+
+	npm install -g concurrently
+     	npm install -g nodemon
+
+8. change path limitation:
+https://www.howtogeek.com/266621/how-to-make-windows-10-accept-file-paths-over-260-characters/
+regedit → HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\FileSystem
+0→ 1
+
+9. Populate Library
+	cd into ’. \facenet-master\src\data’ and run python DB_generator.py
+	(if there is new person added into library, run python PopulateLFW.py first if personal    information needed to be generated, and run python DB_generator.py again)
+
+10. cd into folder web_app:
+npm install && cd client && npm install && cd .. && npm run dev
+
+How to use the app:
+Every time run this prototype, just use anaconda ‘tensorflow_gpuenv’ environment and cd into the web_app folder and npm run dev.
+

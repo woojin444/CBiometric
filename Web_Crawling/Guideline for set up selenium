@@ -1,0 +1,9 @@
+See the link https://selenium-python.readthedocs.io/installation.html
+
+Or if use anaconda, please run:
+conda install -c conda-forge selenium 
+
+Choose the drivers fit your condition, in the codes I use driver for Chrome.
+
+use following to sei up new environment
+conda create -n new_environment --file reqwc.txt

@@ -1,0 +1,6 @@
+./data/target/PpEcq479N/abc/Abdullatif_Sener_0002_0.png##./data/library/Abdullatif_Sener/Abdullatif_Sener_0002.png##66.2
+./data/target/PpEcq479N/abc/Abdullatif_Sener_0002_0.png##./data/library/Abdullatif_Sener/Abdullatif_Sener_0001.png##16.22
+./data/target/PpEcq479N/abc/Abdullatif_Sener_0002_0.png##./data/library/Abdullah_Ahmad_Badawi/Abdullah_Ahmad_Badawi_0001.png##6.73
+./data/target/PpEcq479N/abc/Abdullatif_Sener_0002_0.png##./data/library/Alexander_Losyukov/Alexander_Losyukov_0004.png##0.71
+./data/target/PpEcq479N/abc/Abdullatif_Sener_0002_0.png##./data/library/Charles_Bronson/Charles_Bronson_0003.png##0.28
+./data/target/PpEcq479N/abc/Abdullatif_Sener_0002_0.png##./data/library/Cristian_Barros/Cristian_Barros_0001.png##0.9
