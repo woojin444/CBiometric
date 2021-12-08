@@ -1,5 +1,7 @@
 ![Biometix logo](Landing/biometix-logo.png "Biometics")
 
+# THIS IS A COPY OF [A UNIVERSITY PROJECT REPO](https://gitlab.cecs.anu.edu.au/u6058768/CBiometric). THE ORIGINAL MAY NOT BE PRESENT ANYMORE.
+
 # Computer Science: Biometric Face Miner (18-S2-2-C Biometric)
 
 ## Useful Links
